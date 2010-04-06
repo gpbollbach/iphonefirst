@@ -1,0 +1,257 @@
+Thelloiphone
+v7
+r0
+t290017053.657907
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/Info.plist helloiphone-Info.plist
+cCompileXIB /Volumes/Medium/iphonedev/projects/helloiphone/MainWindow.xib
+cCompileXIB /Volumes/Medium/iphonedev/projects/helloiphone/SecondView.xib
+cProcessPCH /var/folders/iM/iMEbgZuEHGWjpkpulxh06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloiphone_Prefix-apxueuwkttguyqgphtsxdpnptyua/helloiphone_Prefix.pch.gch helloiphone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/main.o /Volumes/Medium/iphonedev/projects/helloiphone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/helloiphoneAppDelegate.o /Volumes/Medium/iphonedev/projects/helloiphone/Classes/helloiphoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/FirstViewController.o /Volumes/Medium/iphonedev/projects/helloiphone/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/helloiphone normal i386
+cGenerateDSYMFile /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app.dSYM /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/helloiphone
+cTouch /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app
+
+N/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B99148200000000000000EE
+t1268323458
+s238
+
+N/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/Classes/FirstViewController.h
+c000000004B99179300000000000000F1
+t1268324243
+s241
+i<UIKit/UIKit.h>
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/Classes/FirstViewController.m
+c000000004B99179300000000000005B6
+t1268324243
+s1462
+i"FirstViewController.h"
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/Classes/helloiphoneAppDelegate.h
+c000000004B99179400000000000001E8
+t1268324244
+s488
+i<UIKit/UIKit.h>
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/Classes/helloiphoneAppDelegate.m
+c000000004B99179400000000000003CD
+t1268324244
+s973
+i"helloiphoneAppDelegate.h"
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/MainWindow.xib
+c000000004B9917940000000000004225
+t1268324244
+s16933
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/SecondView.xib
+c000000004B99179400000000000022F3
+t1268324244
+s8947
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app
+t1268324253
+s238
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app.dSYM
+t1268324253
+s102
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/Info.plist
+t1268324248
+s580
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/MainWindow.nib
+t1268324251
+s4049
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/PkgInfo
+t1268324248
+s8
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/SecondView.nib
+t1268324251
+s2510
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/helloiphone
+t1268324253
+s19520
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/FirstViewController.o
+t1268324253
+s30040
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/helloiphone.LinkFileList
+c000000004B99179700000000000001BF
+t1268324247
+s447
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/helloiphoneAppDelegate.o
+t1268324253
+s41068
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/main.o
+t1268324253
+s6016
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/helloiphone_Prefix.pch
+c000000004B99179400000000000000BF
+t1268324244
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Medium/iphonedev/projects/helloiphone/main.m
+c000000004B991794000000000000016C
+t1268324244
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/iM/iMEbgZuEHGWjpkpulxh06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloiphone_Prefix-apxueuwkttguyqgphtsxdpnptyua/helloiphone_Prefix.pch.gch
+t1268324253
+s13043152
+
+Nhelloiphone-Info.plist
+c000000004B991794000000000000038D
+t1268324244
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290017047#290017047#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/FirstViewController.o /Volumes/Medium/iphonedev/projects/helloiphone/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290017053.224321
+e290017053.299084
+r1
+xCompileC
+xbuild/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/FirstViewController.o
+x/Volumes/Medium/iphonedev/projects/helloiphone/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Volumes/Medium/iphonedev/projects/helloiphone/Classes/FirstViewController.m290017053#290017053#0(0"0(0#0#76"/Volumes/Medium/iphonedev/projects/helloiphone/Classes/FirstViewController.m4300885448#2125"    cd /Volumes/Medium/iphonedev/projects/helloiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Medium/iphonedev/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-generated-files.hmap -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-own-target-headers.hmap -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-all-target-headers.hmap -iquote /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-project-headers.hmap -F/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator -I/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/include -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/DerivedSources/i386 -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/DerivedSources -include /var/folders/iM/iMEbgZuEHGWjpkpulxh06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloiphone_Prefix-apxueuwkttguyqgphtsxdpnptyua/helloiphone_Prefix.pch -c /Volumes/Medium/iphonedev/projects/helloiphone/Classes/FirstViewController.m -o /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/helloiphoneAppDelegate.o /Volumes/Medium/iphonedev/projects/helloiphone/Classes/helloiphoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290017053.103666
+e290017053.249350
+r1
+xCompileC
+xbuild/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/helloiphoneAppDelegate.o
+x/Volumes/Medium/iphonedev/projects/helloiphone/Classes/helloiphoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Volumes/Medium/iphonedev/projects/helloiphone/Classes/helloiphoneAppDelegate.m290017053#290017053#0(0"0(0#0#79"/Volumes/Medium/iphonedev/projects/helloiphone/Classes/helloiphoneAppDelegate.m4300885448#2131"    cd /Volumes/Medium/iphonedev/projects/helloiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Medium/iphonedev/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-generated-files.hmap -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-own-target-headers.hmap -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-all-target-headers.hmap -iquote /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-project-headers.hmap -F/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator -I/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/include -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/DerivedSources/i386 -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/DerivedSources -include /var/folders/iM/iMEbgZuEHGWjpkpulxh06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloiphone_Prefix-apxueuwkttguyqgphtsxdpnptyua/helloiphone_Prefix.pch -c /Volumes/Medium/iphonedev/projects/helloiphone/Classes/helloiphoneAppDelegate.m -o /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/helloiphoneAppDelegate.o0#
+
+CCompileC build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/main.o /Volumes/Medium/iphonedev/projects/helloiphone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290017053.102330
+e290017053.224201
+r1
+xCompileC
+xbuild/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/main.o
+x/Volumes/Medium/iphonedev/projects/helloiphone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Volumes/Medium/iphonedev/projects/helloiphone/main.m290017053#290017053#0(0"0(0#0#53"/Volumes/Medium/iphonedev/projects/helloiphone/main.m4300885448#2087"    cd /Volumes/Medium/iphonedev/projects/helloiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Medium/iphonedev/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-generated-files.hmap -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-own-target-headers.hmap -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-all-target-headers.hmap -iquote /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-project-headers.hmap -F/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator -I/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/include -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/DerivedSources/i386 -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/DerivedSources -include /var/folders/iM/iMEbgZuEHGWjpkpulxh06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloiphone_Prefix-apxueuwkttguyqgphtsxdpnptyua/helloiphone_Prefix.pch -c /Volumes/Medium/iphonedev/projects/helloiphone/main.m -o /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Volumes/Medium/iphonedev/projects/helloiphone/MainWindow.xib
+s290017048.036999
+e290017052.071510
+r1
+xCompileXIB
+x/Volumes/Medium/iphonedev/projects/helloiphone/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib290017048#290017052#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#61"/Volumes/Medium/iphonedev/projects/helloiphone/MainWindow.xib4300885448#555"    cd /Volumes/Medium/iphonedev/projects/helloiphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Medium/iphonedev/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Medium/iphonedev/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/MainWindow.nib /Volumes/Medium/iphonedev/projects/helloiphone/MainWindow.xib0#
+
+CCompileXIB /Volumes/Medium/iphonedev/projects/helloiphone/SecondView.xib
+s290017048.052787
+e290017052.063422
+r1
+xCompileXIB
+x/Volumes/Medium/iphonedev/projects/helloiphone/SecondView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB SecondView.xib290017048#290017052#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#61"/Volumes/Medium/iphonedev/projects/helloiphone/SecondView.xib4300885448#555"    cd /Volumes/Medium/iphonedev/projects/helloiphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Medium/iphonedev/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Medium/iphonedev/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/SecondView.nib /Volumes/Medium/iphonedev/projects/helloiphone/SecondView.xib0#
+
+CGenerateDSYMFile /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app.dSYM /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/helloiphone
+s290017053.596053
+e290017053.652835
+r1
+xGenerateDSYMFile
+x/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app.dSYM
+x/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/helloiphone
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/helloiphone.app.dSYM build/Debug-iphonesimulator/helloiphone.app/helloiphone290017053#290017053#0(0"0(0#0#102"/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/helloiphone4300885448#464"    cd /Volumes/Medium/iphonedev/projects/helloiphone    setenv PATH "/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Medium/iphonedev/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Medium/iphonedev/usr/bin/dsymutil /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/helloiphone -o /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app.dSYM0#
+
+CLd /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/helloiphone normal i386
+s290017053.299195
+e290017053.595779
+r1
+xLd
+x/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/helloiphone
+xnormal
+xi386
+lSLF07#2@107"Link /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/helloiphone290017053#290017053#0(0"0(0#0#0"4300885448#984"    cd /Volumes/Medium/iphonedev/projects/helloiphone    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Medium/iphonedev/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator -F/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator -filelist /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/Objects-normal/i386/helloiphone.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/helloiphone0#
+
+CProcessInfoPlistFile /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/Info.plist helloiphone-Info.plist
+s290017047.991216
+e290017048.036864
+r1
+xProcessInfoPlistFile
+x/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/Info.plist
+xhelloiphone-Info.plist
+lSLF07#2@30"Process helloiphone-Info.plist290017048#290017048#0(0"0(0#0#69"/Volumes/Medium/iphonedev/projects/helloiphone/helloiphone-Info.plist29273878621126768#545"    cd /Volumes/Medium/iphonedev/projects/helloiphone    setenv PATH "/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Medium/iphonedev/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility helloiphone-Info.plist -genpkginfo /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app/Info.plist0#
+
+CProcessPCH /var/folders/iM/iMEbgZuEHGWjpkpulxh06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloiphone_Prefix-apxueuwkttguyqgphtsxdpnptyua/helloiphone_Prefix.pch.gch helloiphone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290017052.071763
+e290017053.102191
+r1
+xProcessPCH
+x/var/folders/iM/iMEbgZuEHGWjpkpulxh06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloiphone_Prefix-apxueuwkttguyqgphtsxdpnptyua/helloiphone_Prefix.pch.gch
+xhelloiphone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile helloiphone_Prefix.pch290017052#290017053#0(0"0(0#0#69"/Volumes/Medium/iphonedev/projects/helloiphone/helloiphone_Prefix.pch4300885448#1967"    cd /Volumes/Medium/iphonedev/projects/helloiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Medium/iphonedev/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-generated-files.hmap -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-own-target-headers.hmap -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-all-target-headers.hmap -iquote /Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/helloiphone-project-headers.hmap -F/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator -I/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/include -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/DerivedSources/i386 -I/Volumes/Medium/iphonedev/projects/helloiphone/build/helloiphone.build/Debug-iphonesimulator/helloiphone.build/DerivedSources -c /Volumes/Medium/iphonedev/projects/helloiphone/helloiphone_Prefix.pch -o /var/folders/iM/iMEbgZuEHGWjpkpulxh06k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloiphone_Prefix-apxueuwkttguyqgphtsxdpnptyua/helloiphone_Prefix.pch.gch0#
+
+CTouch /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app
+s290017053.652936
+e290017053.657835
+r1
+xTouch
+x/Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app
+lSLF07#2@96"Touch /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app290017053#290017053#0(0"0(0#0#0"4300885448#328"    cd /Volumes/Medium/iphonedev/projects/helloiphone    setenv PATH "/Volumes/Medium/iphonedev/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Medium/iphonedev/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/Medium/iphonedev/projects/helloiphone/build/Debug-iphonesimulator/helloiphone.app0#
+

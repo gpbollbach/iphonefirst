@@ -1,0 +1,51 @@
+TLabelPrinter
+v7
+r1
+
+N/Volumes/Medium/iphonedev/projects/LabelPrinter/LabelPrinterViewController.xib
+c000000004B9925510000000000004E78
+t1268327761
+s20088
+
+N/Volumes/Medium/iphonedev/projects/LabelPrinter/MainWindow.xib
+c000000004B9921200000000000002485
+t1268326688
+s9349
+
+N/Volumes/Medium/iphonedev/projects/LabelPrinter/build/Debug/LabelPrinter.app
+t2
+s0
+
+N/Volumes/Medium/iphonedev/projects/LabelPrinter/build/Debug/LabelPrinter.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/Medium/iphonedev/projects/LabelPrinter/build/Debug/LabelPrinter.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/Medium/iphonedev/projects/LabelPrinter/build/Debug/LabelPrinter.app/Contents/Resources/LabelPrinterViewController.nib
+t2
+s0
+
+N/Volumes/Medium/iphonedev/projects/LabelPrinter/build/Debug/LabelPrinter.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NLabelPrinter-Info.plist
+c000000004B992120000000000000038D
+t1268326688
+s909
+
+CCompileXIB /Volumes/Medium/iphonedev/projects/LabelPrinter/LabelPrinterViewController.xib
+r0
+
+CCompileXIB /Volumes/Medium/iphonedev/projects/LabelPrinter/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Volumes/Medium/iphonedev/projects/LabelPrinter/build/Debug/LabelPrinter.app/Contents/Info.plist LabelPrinter-Info.plist
+r0
+
+CTouch /Volumes/Medium/iphonedev/projects/LabelPrinter/build/Debug/LabelPrinter.app
+r0
+
